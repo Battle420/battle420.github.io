@@ -1,2 +1,2 @@
-# battle420.github.io
-A website for stuff.
+# A website for things
+WIP
